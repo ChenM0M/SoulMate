@@ -1,4 +1,4 @@
-![2158B40AC092EC1587A17FE84286DEB2](https://github.com/ChenM0M/SoulMate/assets/126325292/4e42d795-f1bd-4af5-9ec0-ac3124589bb4)
+![SoulMate](https://github.com/ChenM0M/SoulMate/assets/126325292/73987071-fe86-42cc-b9e3-0ca57738eacc)
 # 关于>SoulMate
 SoulMate是基于GPT进行信息处理、面向各种社交软件的心理咨询与预警Bot
 # ✨>SoulMate能为我做些什么呢✨

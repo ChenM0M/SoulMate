@@ -1,6 +1,6 @@
 ![SoulMate](https://github.com/ChenM0M/SoulMate/assets/126325292/73987071-fe86-42cc-b9e3-0ca57738eacc)
 # 关于>SoulMate
-SoulMate是基于GPT进行信息处理、面向各种社交软件的心理咨询与预警Bot
+SoulMate是基于大语言模型进行信息处理、面向各种社交软件的心理咨询与预警Bot
 # ✨>SoulMate能为我做些什么呢✨
 1. 【Ta永远陪伴着你】：在您感到心情低落、困惑时与你对话聊天引导。
 2. 【Ta是你坚强后盾】：关心你的心理状况，在过度消极时能够进行记录并帮助你寻求他人的帮助

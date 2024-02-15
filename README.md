@@ -26,3 +26,6 @@ SoulMate是基于大语言模型进行信息处理、面向各种社交软件的
 - [hsiehyinchen](https://github.com/hsiehyinchen) 提供的创意想法
 - [yaoandy107](https://github.com/yaoandy107/line-bot-tutorial) 感谢linebot教学
 - ChatGPT ~~在技术上提供超大超大的帮助~~
+# 项目贡献内容声明
+本项目基于@LynnGuo666的[SoulChat](https://github.com/LynnGuo666/SoulChat)项目中的KOOK/DISCORD/TELEGRAMbot模块及gpt推流模块开发；完善内容介绍，并进行了prompts修改。
+
